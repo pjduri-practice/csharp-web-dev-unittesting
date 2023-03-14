@@ -52,6 +52,5 @@ namespace CarTests
             Assert.Fail("Shouldn't get here, car cannot have more gas in tank than the size of the tank");
         }
 
-
     }
 }
